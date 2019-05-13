@@ -6,11 +6,7 @@ This project is developed on following platform,
 - **OpenCV** : 2.0
 
 ## Hardware Requirement
-	1. Webcam
-
-## Development Environment specification
-	1. C++
-	2. OpenCV
+- **Webcam**
 
 ## Setup Environment
 ###### Install opencv
